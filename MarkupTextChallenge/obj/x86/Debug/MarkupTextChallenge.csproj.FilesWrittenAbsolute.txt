@@ -5,3 +5,5 @@
 /Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/MarkupTextChallenge.exe
 /Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/obj/x86/Debug/MarkupTextChallenge.exe
 /Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/obj/x86/Debug/MarkupTextChallenge.exe.mdb
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/Source/input.txt
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/Source/targets.txt
