@@ -13,5 +13,10 @@ Aho Corasick extends [KMP Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%9
 ```
 clone repo
 cd /(repo-root)/MarkupTextChallenge/bin/Debug
-run MarkupTextChallenge.exe -input input-file-path.txt -target targets-file-path.txt
+MarkupTextChallenge.exe -input input-file-path.txt -target targets-file-path.txt
+```
+
+## Help
+```
+MarkupTextChallenge.exe -help
 ```
