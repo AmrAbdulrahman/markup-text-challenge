@@ -1,0 +1,7 @@
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/input.txt
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/targets.txt
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/MarkupTextChallenge.exe.mdb
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/bin/Debug/MarkupTextChallenge.exe
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/obj/x86/Debug/MarkupTextChallenge.exe
+/Users/abumuslim/workspace/MarkupTextChallenge/MarkupTextChallenge/obj/x86/Debug/MarkupTextChallenge.exe.mdb
