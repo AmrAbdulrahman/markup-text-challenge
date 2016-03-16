@@ -22,7 +22,7 @@ Complexity of:
 - markup text: O(K log K + K + N)
 
 Overall: 
-**O(K log K + N + M + K)**
+**O(K log K + N + M)**
 
 ## Run
 ```
